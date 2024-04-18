@@ -152,9 +152,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:5174",
-    'https://front-repositorio-zuris-projects.vercel.app',
-    'https://front-repositorio-9b08x3h0c-zuris-projects.vercel.app',
-    'https://front-repositorio-q92ej1yza-zuris-projects.vercel.app',
     'https://front-repositorio.vercel.app/',
     'https://front-repositorio-git-main-zuris-projects.vercel.app/',
     'https://front-repositorio-frxlb547a-zuris-projects.vercel.app/',
