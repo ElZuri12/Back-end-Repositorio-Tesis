@@ -155,6 +155,9 @@ CORS_ALLOWED_ORIGINS = [
     'https://front-repositorio-zuris-projects.vercel.app',
     'https://front-repositorio-9b08x3h0c-zuris-projects.vercel.app',
     'https://front-repositorio-q92ej1yza-zuris-projects.vercel.app',
+    'https://front-repositorio.vercel.app/',
+    'https://front-repositorio-git-main-zuris-projects.vercel.app/',
+    'https://front-repositorio-frxlb547a-zuris-projects.vercel.app/',
 ]
 
 # In settings.py
